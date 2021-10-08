@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import axios from 'axios';
 import './App.css';
-// import styled from 'styled-components';
+
 import Character from './components/Character';
 import {BASE_URL} from './components/Constants';
 
